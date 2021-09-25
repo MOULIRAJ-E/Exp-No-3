@@ -1,0 +1,2 @@
+This is the first doc of exp 2 in git class.
+The experiment is to create a local repo.
